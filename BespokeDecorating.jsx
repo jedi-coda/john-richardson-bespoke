@@ -40,7 +40,7 @@ const BespokeDecorating = () => {
             </div>
           </div>
         </div>
-        <div className="hidden md:block md:w-2/5">
+        <div className="w-full mb-10 md:mb-0 md:w-2/5">
           <div className="bg-slate-200 aspect-[4/5] rounded-3xl overflow-hidden shadow-2xl rotate-2 hover:rotate-0 transition-transform duration-500">
              <img src="/hero.jpg" className="w-full h-full object-cover" alt="Bespoke Decorating Work" />
           </div>
